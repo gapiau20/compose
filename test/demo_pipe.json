@@ -1,0 +1,9 @@
+{
+"load_ecg":{},
+"select_ecg_channels":{
+    "channels":[0]
+    },
+
+"Adapter(get_qrs_indices)":{"fs":360},
+"slice_indices":{"left":100,"right":100}
+}
